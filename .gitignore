@@ -1,0 +1,83 @@
+﻿# .NET Specific
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated UI debug database
+*.rsuser
+*.rsps
+
+# Azure DevOps
+.vs/
+.vsscc
+
+# Resharper
+_ReSharper.Caches/
+
+# EditorConfig
+.editorconfig
+
+# Rider
+.idea/
+
+# File-based project
+*.v11.suo
+*.sou
+*.ccproj
+*.njsproj
+*.vcxproj
+*.shfb
+*.opensdf
+*.opendb
+*.tlog
+
+# Build Results
+BuildArtifacts/
+_build/
+
+# Publish Results
+*.Publish.xml
+*.publishsettings
+*.Deployment.cmd
+*.Deploy.cmd
+
+# Package Management
+packages/
+*.nupkg
+*.snupkg
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows image file caches
+*.Thumbs.db
+*.ehthumbs.db
+
+# Dump files
+*.dmp
+
+# Lock Files
+project.lock.json
+project.fragment.lock.json
+
+# IDE Files
+.idea
+.vscode
+.vs
+.vscode/**
+.vs/
+**/.vs/**
